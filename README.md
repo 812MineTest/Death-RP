@@ -1,5 +1,6 @@
 # Death-RP
-PvP Texture Pack for Luanti(formely Minetest)
+PvP Texture Pack for Minetest game, Mineclonia, MineClone2
+PvP Texture Pack for FFA, CTF, Other PvP servers and none PvP servers
 
 Created by 812(me) | !WARNING! - Texture Pack dont complited on 100%. I will add all the necessary textures over time.
 
